@@ -5,6 +5,8 @@
 This project focuses on transforming raw Alzheimer’s Disease MRI brain scan images into a structured and analyzable dataset. Using Python, key radiological features such as pixel intensity, entropy, and structural clarity were extracted from thousands of MRI scans and converted into a clean CSV file. The resulting dataset was visualized in Power BI to uncover insights into disease patterns, severity levels, and structural brain changes across dementia categories.
 This workflow provides a reproducible pipeline that bridges medical imaging, data engineering, and business intelligence.
 
+The raw file where the images of the MRI Scan was sourced from- https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented
+
 ## Business Problem
 
 Hospitals and research centers often store MRI scans as raw image files, making it difficult for clinicians and data teams to:
