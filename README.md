@@ -142,3 +142,6 @@ Build a UI where clinicians upload MRI scans and get:
 - Feature summary
 - Risk level score
 - Visual explanation
+
+<img width="591" height="325" alt="image" src="https://github.com/user-attachments/assets/c64b9310-b096-470f-89ad-0c26c6ef57ff" />
+
